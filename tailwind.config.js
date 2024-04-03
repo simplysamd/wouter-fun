@@ -10,7 +10,8 @@ export default {
         'primary': '#2dd4bf',
         'secondary': '#f87171',
         'bgclr': '#111827',
-        'textclr': '#94a3b8'
+        'textclr': '#94a3b8',
+        'c2': '#36a9e1'
       },
       fontFamily: {
         'display': ['Open Sans']
